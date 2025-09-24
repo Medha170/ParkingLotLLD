@@ -44,7 +44,7 @@ The design ensures flexibility by abstracting core behaviors into strategies and
 
 The system was designed based on the following UML class diagram:
 
-![Parking Lot Class Diagram](/home/medha/Downloads/ParkingLot.drawio.svg)
+![Parking Lot Class Diagram](./ParkingLot.drawio.png)
 
 ---
 
