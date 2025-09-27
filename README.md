@@ -53,7 +53,7 @@ The system was designed based on the following UML class diagram:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/parkinglot.git
+   git clone https://github.com/Medha170/ParkingLotLLD.git
    cd parkinglot
    ```
 

@@ -1,0 +1,17 @@
+# Compiled class files
+*.class
+
+# Package files #
+*.war
+*.ear
+*.jar
+*.zip
+*.tar.gz
+*.tar.bz2
+*.rar
+
+# Maven and other java build tool files
+.m2
+.classpath
+.local-repo
+target

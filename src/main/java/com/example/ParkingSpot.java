@@ -1,7 +1,6 @@
 package com.example;
 
 import java.util.List;
-import java.util.Objects;
 
 public class ParkingSpot {
     private final int floorNo;
@@ -19,6 +18,14 @@ public class ParkingSpot {
 
     public String getSpotId() {
         return "F" + floorNo + "-S" + spotNo;
+    }
+
+    public int getFloorNo() {
+        return floorNo;
+    }
+
+    public int getSpotNo() {
+        return spotNo;
     }
 
     public Type getType() {
